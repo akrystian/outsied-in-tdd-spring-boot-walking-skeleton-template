@@ -1,0 +1,6 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+rootProject.name = 'outsied-in-tdd-spring-boot-walking-skeleton-template'
